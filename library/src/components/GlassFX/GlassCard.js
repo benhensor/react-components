@@ -29,7 +29,7 @@ return (
             <h2>{number}</h2>
             <h3>{title}</h3>
             <p>{body}</p>
-            <a href='#'>{link}</a>
+            <button href='#'>{link}</button>
           </div>
         </div>
       </div>

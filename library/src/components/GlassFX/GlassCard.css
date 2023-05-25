@@ -78,7 +78,7 @@
   font-weight: 300; 
 }
 
-.container .card .content a {
+.container .card .content button {
   position: relative;
   display: inline-block;
   padding: 8px 20px;
